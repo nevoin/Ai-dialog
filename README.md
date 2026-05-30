@@ -18,4 +18,4 @@ Two AI models discuss unsolved mathematical problems (DLP, ECDSA, etc.)
 pip install -r requirements.txt
 
 ## Usage
-python debate.py
+python dialogDLP.py
