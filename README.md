@@ -1,5 +1,5 @@
 # Ai-dialog
-A Python script that makes two local LLMs debate unsolved mathematical problems (Millennium Problems, DLP in ECDSA, etc.). The AI agents discuss, argue, and propose solutions with configurable roles and personalities.
+A Python script that makes two local LLMs debate problems (e.g. DLP in ECDSA, etc.). The AI agents discuss, argue, and propose solutions with configurable roles and personalities.
 
 Two AI models discuss unsolved mathematical problems (DLP, ECDSA, etc.)
 
